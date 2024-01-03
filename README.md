@@ -1,5 +1,6 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
+### AIM:
+To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
@@ -46,15 +47,23 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+![image](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/f246bbe0-2a90-454a-8fd7-49a70e5912b3)
 
 
 
-### PROGRAM 
+
+### PROGRAM:
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+~~~
+Developed by: Dhanusya.K
+~~~
+RegisterNumber:  23006651
+# UP COUNTER:
+![image](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/917296af-d2c5-40d6-aa3f-73d5df29b4de)
+# DOWN COUNTER:
+![image](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/6341fdad-cd02-429c-873e-402f30e01526)
+
 */
 
 
@@ -62,27 +71,28 @@ RegisterNumber:
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
+### RTL LOGIC UP COUNTER AND DOWN COUNTER
+# UP COUNTER:
+![Screenshot 2024-01-03 082001](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/e2232092-e1e5-4110-8e68-c5a79f7bde82)
+# DOWN COUNTER:
+![Screenshot 2024-01-03 081729](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/ae9e9b41-0049-4dec-a195-e07af56aceff)
 
 ### TIMING DIGRAMS FOR COUNTER  
-
-
-
+# UP COUNTER:
+![Screenshot 2024-01-03 081854](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/74d55e68-5cf0-460d-9929-19dcb8c3f87f)
+# DOWN COUNTER:
+![Screenshot 2024-01-03 081835](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/ff148765-4d85-45f9-87cd-258b7f03e6fc)
 
 
 ### TRUTH TABLE 
+# UP COUNTER:
+![Screenshot 2024-01-03 100540](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/c1742038-5ac5-4a1a-8476-7800d0b2a236)
 
-
+# DOWN COUNTER:
+![Screenshot 2024-01-03 100601](https://github.com/Dhanu654/Exp-7-Synchornous-counters-/assets/148514965/0c336fc8-d9b1-4166-98d2-84d0b03309fc)
 
 
 
 
 ### RESULTS 
+Thus the Program executed Successfully
